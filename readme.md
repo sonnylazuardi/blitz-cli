@@ -10,6 +10,8 @@ npm i -g blitz-cli
 blitz-cli
 ```
 
+![ss](http://i.giphy.com/26Fxw39SmczeDMzao.gif)
+
 ## License
 
 &copy; 2016 @sonnylazuardi

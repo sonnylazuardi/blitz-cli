@@ -1,6 +1,6 @@
 {
   "name": "blitz-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "check the cgv blitz cinema movie seat from your cli",
   "bin": "index.js",
   "scripts": {
