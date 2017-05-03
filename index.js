@@ -13,8 +13,8 @@ var cheerio = require('cheerio');
 var Table = require('cli-table');
 
 
-var baseUrl = 'https://www.cgvblitz.com/en/schedule/cinema';
-var seatUrl = 'https://www.cgvblitz.com/en/schedule/seat';
+var baseUrl = 'https://www.cgv.id/en/schedule/cinema';
+var seatUrl = 'https://www.cgv.id/en/schedule/seat';
 var model = [];
 var cities = [];
 var cinemas = [];
