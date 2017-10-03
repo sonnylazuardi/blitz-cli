@@ -6,6 +6,8 @@ Blitz CLI
 ## Usage
 
 ```
+git clone https://github.com/sonnylazuardi/blitz-cli.git
+cd blitz-cli
 npm i -g blitz-cli
 blitz-cli
 ```
